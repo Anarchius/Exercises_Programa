@@ -1,0 +1,4 @@
+services:
+#    exercise.example:
+#        class: exerciseBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
